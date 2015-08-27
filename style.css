@@ -35,11 +35,17 @@ html, body {
 	padding-left: 30px;
 }
 
+.nav li a:hover {
+	background-color: transparent;
+	font-style: italic;
+}
+
 #adoptly {
 	background-color: #E52364;
 	font-size: 32px;
 	padding-left: 25px;
 }
+
 
 .jumbotron {
 	background-image: url('https://snap-photos.s3.amazonaws.com/img-thumbs/960w/JHPVE3XLUE.jpg');
@@ -86,7 +92,7 @@ html, body {
 }
 
 .footer a:hover {
-	color: #E52364;
+	font-style: italic;
 }
 
 
